@@ -36,7 +36,7 @@ Generate Voucher Coupons and Redeems
 
 #### Voucher
     where voucher pai
-    voucher/create : Voucher Generation API (Its only authenticated api)(closed api)
+    voucher/create : Voucher Generation API (Its only authenticated api)(closed api) jwt toke required
     voucher/fetch : Get Vouchers API (open api)
     voucher/redeem : Voucher Redeem API (open api)
 
@@ -54,7 +54,7 @@ Generate Voucher Coupons and Redeems
 ### work flow
      1:  need to signup using signup api
      2 : login and get token access
-     3 : need to call voucher generate api 
+     3 : need to call voucher generate api (jwt toke required)
      4 : It's upto us we can call voucher get or redeem api
      
      
