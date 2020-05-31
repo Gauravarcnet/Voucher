@@ -48,6 +48,8 @@ Generate Voucher Coupons and Redeems
 ### logger
     Winston and morgan i have used 
 
+    Updating logs in voucher and in db
+
     
 
 
