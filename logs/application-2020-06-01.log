@@ -1,0 +1,94 @@
+1/6/2020 0:17:13 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | yScfL1Bu07T33odlZ02rmOF1sGf8t8SP | IP - Unknown | [info] | { email: 'gauravbansal0000@gmail.com',
+  generationTime: 1590950832935,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fbb0f7c6d91d5d496119,
+  code: 'VCDznw6k3xg37',
+  pin:
+   '$2b$08$1Obm/5ULzbcmhK.IUpMJsuctL6DjblpgOmwQmEVCIN12i2/mELrDG',
+  amount: 2000,
+  createdAt: 2020-05-31T18:47:12.940Z,
+  updatedAt: 2020-05-31T18:47:12.940Z,
+  __v: 0 }
+1/6/2020 0:17:58 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | TLNsJz8mLpb1uta97ZZ6qL4pgw6bGOw2 | IP - Unknown | [info] | { email: 'gauravbansal+10000@gmail.com',
+  generationTime: 1590950878434,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fbdef7c6d91d5d49611a,
+  code: 'VCDmi96qppr2z',
+  pin:
+   '$2b$08$3fgSDbOk5K46eVmDFRTfTuK0TzYK3gT2kE3JgjITx/7t2MXCk..zy',
+  amount: 5000,
+  createdAt: 2020-05-31T18:47:58.436Z,
+  updatedAt: 2020-05-31T18:47:58.436Z,
+  __v: 0 }
+1/6/2020 0:18:25 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | i00PGmLzEa67JIv4l9l5ASDh9LKZxmA8 | IP - Unknown | [info] | { email: 'gauravbansal+20000@gmail.com',
+  generationTime: 1590950905126,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fbf9f7c6d91d5d49611b,
+  code: 'VCD72nsrulkkn',
+  pin:
+   '$2b$08$ITOy1nwer9uEVZIIj.Z0ueDg2xPFJVGdDwueqahZun/IL7Ne9BC0i',
+  amount: 5000,
+  createdAt: 2020-05-31T18:48:25.127Z,
+  updatedAt: 2020-05-31T18:48:25.127Z,
+  __v: 0 }
+1/6/2020 0:18:33 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | RZZjKhqc842NPyruuTCmOYJ7Ga5IXJtm | IP - Unknown | [info] | { email: 'gauravbansal+30000@gmail.com',
+  generationTime: 1590950913938,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fc01f7c6d91d5d49611c,
+  code: 'VCD7802sxiw75',
+  pin:
+   '$2b$08$FCi6zCxSFc/OByDXO1DV8.IntrvfJmzeIrcNL9oAH1RpNpPyvPLO2',
+  amount: 5000,
+  createdAt: 2020-05-31T18:48:33.939Z,
+  updatedAt: 2020-05-31T18:48:33.939Z,
+  __v: 0 }
+1/6/2020 0:18:48 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | KSVgvvvlEELi9frtHDMtpiADlJFrfBT5 | IP - Unknown | [info] | { email: 'gauravbansal+40000@gmail.com',
+  generationTime: 1590950928897,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fc10f7c6d91d5d49611d,
+  code: 'VCDd72galfpf0',
+  pin:
+   '$2b$08$PYoSAk4cjcrVVSBJbBdZjeObvtyymG8XK4man0lWHJlEPQrDP9xwK',
+  amount: 5000,
+  createdAt: 2020-05-31T18:48:48.898Z,
+  updatedAt: 2020-05-31T18:48:48.898Z,
+  __v: 0 }
+1/6/2020 0:18:57 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(99) | 7DwIukOeUyFkQsJtA6XY0mtXsjkcZRgF | IP - Unknown | [info] | { email: 'gauravbansal+50000@gmail.com',
+  generationTime: 1590950937227,
+  attemptTime: 0,
+  status: 'active',
+  usageActivity: 5,
+  _id: 5ed3fc19f7c6d91d5d49611e,
+  code: 'VCDegcmgczhl1',
+  pin:
+   '$2b$08$zYhB2ucp74Qih/Nr0vp2JexZAvYy8Z7ltcqcBnwcqDlVrYXgxLwIO',
+  amount: 5000,
+  createdAt: 2020-05-31T18:48:57.229Z,
+  updatedAt: 2020-05-31T18:48:57.229Z,
+  __v: 0 }
+1/6/2020 0:28:52 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | O3yvzaqqGMHbIuXXQckSNrBVUAUiDMyl | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:22 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | 4tP5X0AArAqWMZmnczBsdVbwLEecSdxf | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:42 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | jABlAaGpayXm8CvsmcPjm99U4U5vZt1a | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:44 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | EeZ5UWGesu4qj2uQrrtqez09bnUniEU7 | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:49 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | ayFuBNnt5PhEa1PaIL7z5En4ZZjqBR5W | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:50 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | XfAdHtqYDit9RaaxhTRYbdwQsCt9821a | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:52 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | 5QFDt5ar1n5TJiSxKmMwZrQU2gB4HwBT | IP - Unknown | [info] | [object Object]
+1/6/2020 0:29:53 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(253) | yDPlQpVGZvbCJwbFH0C0D6xyXWhObE5u | IP - Unknown | [info] | [object Object]
+1/6/2020 0:55:31 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | EGWNCTtMGTLvcM91d7HMrItped3pGb2M | IP - Unknown | [info] | [object Object]
+1/6/2020 0:55:57 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | H4D1oKUowiTkZ9DNUi0BDYM2PVhMTYpF | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:19 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | R8jlDQjxsV5IYNenZAGx8GQtpwhHY1GI | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:21 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | zdWS8XJsLbIUzIsRjWs6SXRzb0dzFqhk | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:23 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | 9E4Iyhu3n1IgoofV3edrdQEaW0CcbdFS | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:25 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | ve7EzUWNJ0UdDYJ0RZxTFqZlxJvv8IyF | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:27 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | 2LJnlhUWDUGx6Cx5FbERK1X3rMFquIcB | IP - Unknown | [info] | [object Object]
+1/6/2020 0:56:33 | /home/gaurav/Desktop/VocherGenerate/components/voucher/voucher.controller.js(257) | ZKdUIByPqS3O2cj2FiCcm7mKlxQDFfBC | IP - Unknown | [info] | [object Object]
