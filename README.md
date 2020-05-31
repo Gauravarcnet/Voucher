@@ -6,7 +6,7 @@ Generate Voucher Coupons and Redeems
 
 
 ### code struture 
-    server.js server file
+    server.js server file where server will start(main file)
     app is our application file
     .env where all secret key 
     logs folder where i am creating files on date basis and storing logs for Voucher and updating 
@@ -23,6 +23,7 @@ Generate Voucher Coupons and Redeems
 ### Email
     i am using nodemailer
     host:smtp
+    To check email functionality need to pass email and password in .env file of gmail 
 
 ### Two component 
     
@@ -49,8 +50,7 @@ Generate Voucher Coupons and Redeems
 ### logger
     Winston and morgan i have used 
 
-    Updating logs in voucher and in db
-
+    Updating logs in voucher and in different
     
 
 
