@@ -12,6 +12,7 @@ Generate Voucher Coupons and Redeems
     logs folder where i am creating files on date basis and storing logs for Voucher and updating 
     utils folder where utility function are written like authentication, applogger(for log), response, erro handling, response handling
     config folder where database file are there config i am storing(persistent data)
+    Component have modules user, voucher 
 
 ### Database 
     Mongoose client which  is running locally on 27017 by defalut
