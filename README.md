@@ -49,8 +49,15 @@ Generate Voucher Coupons and Redeems
 
 ### logger
     Winston and morgan i have used 
-
     Updating logs in voucher and in different
+
+### work flow
+     1:  need to signup using signup api
+     2 : login and get token access
+     3 :  need to call voucher generate api 
+     4 :  It's upto us we can call voucher get or redeem api
+     
+     
     
 
 
